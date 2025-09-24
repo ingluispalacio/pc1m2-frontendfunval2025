@@ -30,6 +30,8 @@ src/
  ├── App.jsx
  └── main.jsx           # Punto de entrada
 
+```
+
 ---
 
 ## 📌 Lógica aplicada
