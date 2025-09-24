@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Bill Mahoney",
+    "img": "images/photo1.png",
+    "rol": "Product Owner",
+    "age": 31,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Saba Cabrera",
+    "img": "images/photo2.png",
+    "rol": "Art Director",
+    "age": 33,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Shea le",
+    "img": "images/photo3.png",
+    "rol": "Tech Lead",
+    "age": 29,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Skaylah Lu",
+    "img": "images/photo4.png",
+    "rol": "UX Dessigner",
+    "age": 33,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Griff Richards",
+    "img": "images/photo5.png",
+    "rol": "Developer",
+    "age": 28,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Stan Jhon",
+    "img": "images/photo6.png",
+    "rol": "Developer",
+    "age": 27,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]
