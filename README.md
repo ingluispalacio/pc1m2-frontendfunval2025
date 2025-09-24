@@ -14,14 +14,21 @@ El objetivo es aplicar estilos condicionales usando **React** y **TailwindCSS v4
 
 ## 📂 Estructura principal
 ```
+public/
+ ├── images/            # Solo archivos estáticos (imágenes, íconos, etc.)
+ │   ├── avatar1.png
+ │   └── avatar2.jpg
+ └── data/              # Opcional: JSON accesibles públicamente
+     └── user.json
+
 src/
- ├── components/
+ ├── components/        # Todos los componentes React
  │   ├── CardUser.jsx
  │   └── ListCardUsers.jsx
- ├── assets/
- │   └── images/   # Fotos 
- └── App.jsx
-```
+ ├── data/              # (Recomendado) Si quieres importar el JSON directamente en el código
+ │   └── user.json
+ ├── App.jsx
+ └── main.jsx           # Punto de entrada
 
 ---
 

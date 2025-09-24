@@ -1,6 +1,6 @@
 
 function CardUser({ user, index }) {
-  const base = "relative w-full h-64 md:h-80 lg:h-112 xl:h-212";
+  const base = "relative w-full h-64 md:h-80 lg:h-112 xl:h-128";
   const mobileMt = index % 2 !== 0 ? "mt-12" : "";      
   const mdOverride = index % 3 === 1 ? "md:mt-12" : "md:mt-0"; 
 
