@@ -6,7 +6,7 @@ function Main() {
     const [users, serUsers] = useState([]);
 
     useEffect(() => {
-        axios.get("src/data/users.json")
+        axios.get("data/users.json")
             .then((res) => { serUsers(res.data) })
             .catch((err) => console.error("Error al cargar usuarios:", err));
     }, []);
